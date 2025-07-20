@@ -1,0 +1,6 @@
+WRITE 0 escribir
+WRITE 5 escribirMucho
+WRITE 17 a
+READ 0 1
+READ 15 200
+EXIT

@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "io_kernel.h": "c",
+        "kernel.h": "c",
+        "log.h": "c",
+        "hello.h": "c",
+        "list.h": "c",
+        "kernel_io.h": "c",
+        "string.h": "c",
+        "io.h": "c",
+        "cpu_kernel_interrupt.h": "c",
+        "kernel_communications.h": "c",
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "utils.h": "c",
+        "queue.h": "c",
+        "dictionary.h": "c",
+<<<<<<< HEAD
+        "memoria.h": "c",
+        "kernel_memoria.h": "c",
+        "cpu_memoria.h": "c",
+        "cpu.h": "c"
+=======
+        "stdlib.h": "c"
+>>>>>>> main
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
