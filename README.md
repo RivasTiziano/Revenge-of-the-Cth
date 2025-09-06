@@ -1,6 +1,6 @@
 # Sistema Operativo Distribuido en C
 
-*Revenge of the Cth* es un sistema operativo simulado desarrollado en C que implementa una arquitectura distribuida modular. Cada componente replica de manera simplificada comportamientos reales de un sistema operativo moderno, incluyendo planificación de procesos, manejo de memoria paginada, interacción con dispositivos de entrada/salida y ejecución de instrucciones en CPU.
+*Revenge of the Cth* es un sistema operativo simulado desarrollado en C que implementa una arquitectura distribuida modular. Cada componente replica de manera simplificada comportamientos reales de un sistema operativo moderno, incluyendo planificación de procesos, manejo de memoria paginada, interacción con dispositivos de entrada/salida y ejecución de instrucciones en CPU. Hecho con un equipo de 4 personas con un plazo de 3-4 meses, principalmente para fines academicos en la Universidad Tecnologica Nacional de Buenos Aires con el apoyo de los ayudantes y profesores de la asignatura de Sistemas Operativos.
 
 ## Características Principales
 
